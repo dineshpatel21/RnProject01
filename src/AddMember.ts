@@ -4,7 +4,9 @@ import React from 'react'
 const AddMember = () => {
   return (
     <View>
-      <Text>AddMember</Text>
+      <TouchableOpacity>
+      <Text>Jalwa</Text>
+      </TouchableOpacity>
     </View>
   )
 }
