@@ -3,11 +3,18 @@ import React from 'react'
 
 const Child = () => {
   const onPressChild = ()=>{
-    console.log("main Child pressed!");
+    console.log("Main Child pressed on Main Page ! ljdfls lsjdlfsj lsdjfkljsdk d");
   }
   return (
     <View>
       <TouchableOpacity onPress={()=>{onPressChild()}}>Child</TouchableOpacity>
+      <View>
+        <Text>Hello</Text>
+        <TouchableOpacity><Text>Clicked!</Text></TouchableOpacity>
+        <Text>Today</Text>
+        <Text>Tommarow</Text>
+        <Text>Mangel Pandey</Text>
+      </View>
     </View>
   )
 }
