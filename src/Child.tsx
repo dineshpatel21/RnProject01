@@ -14,6 +14,7 @@ const Child = () => {
         <Text>Today</Text>
         <Text>Tommarow</Text>
         <Text>Mangel Pandey</Text>
+        <Text>hello i am dinesh patel and i react native developer. asldkjklsa  alsdjlkfk alkdsjkl </Text>
       </View>
     </View>
   )
