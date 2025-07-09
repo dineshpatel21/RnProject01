@@ -1,10 +1,13 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native'
 import React from 'react'
 
 const Child = () => {
+  const onPressChild = ()=>{
+    console.log("branch1 child pressed!!");
+  }
   return (
     <View>
-      <Text>Child</Text>
+      <TouchableOpacity onPress = {()=>{onPressChild()}} >Child</TouchableOpacity>
     </View>
   )
 }
