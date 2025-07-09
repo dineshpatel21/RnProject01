@@ -3,7 +3,7 @@ import React from 'react'
 
 const Child = () => {
   const onPressChild = ()=>{
-    console.log("branch 1 Child function  pressed!");
+    console.log("branch 1 Child function  pressed! braaaaaaaaaaaaaaaaaaaaaaaanch");
   }
   return (
     <View>
