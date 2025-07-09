@@ -3,7 +3,7 @@ import React from 'react'
 
 const Child = () => {
   const onPressChild = ()=>{
-    console.log("Main Child pressed on Main Page !");
+    console.log("Main Child pressed on Main Page ! ljdfls lsjdlfsj lsdjfkljsdk d");
   }
   return (
     <View>
