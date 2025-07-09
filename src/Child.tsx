@@ -3,11 +3,12 @@ import React from 'react'
 
 const Child = () => {
   const onPressChild = ()=>{
-    console.log("main Child pressed!");
+    console.log("branch 1 Child function  pressed!");
   }
   return (
     <View>
       <TouchableOpacity onPress={()=>{onPressChild()}}>Child</TouchableOpacity>
+      <Text>Hello Friend</Text>
     </View>
   )
 }
