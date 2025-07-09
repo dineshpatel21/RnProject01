@@ -18,6 +18,7 @@ const Child = () => {
         <Text>sjdlfsjd alsjdl alajdsl falsldfjla </Text>
         <Text>slkdjflksa lasjjdlfj asldjfla sldjflasjd flsddjflsdj flsdjflds</Text>
         <Text>yes your name is what?</Text>
+        <Text>Yes it is india. i am from chhattisagarh.</Text>
       </View>
     </View>
   )
