@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, TouchableOpacity, Image } from 'react-native'
+import { StyleSheet, Text, View, TouchableOpacity, Image, Button } from 'react-native'
 import React from 'react'
 
 const Child = () => {
@@ -10,6 +10,7 @@ const Child = () => {
       <TouchableOpacity onPress={()=>{onPressChild()}}>Child</TouchableOpacity>
       <View>
         <Text>Hello</Text>
+        <TouchableOpacity><Text>Clicked!</Text></TouchableOpacity>
       </View>
     </View>
   )
