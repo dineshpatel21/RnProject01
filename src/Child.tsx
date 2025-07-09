@@ -11,6 +11,7 @@ const Child = () => {
       <View>
         <Text>Hello</Text>
         <TouchableOpacity><Text>Clicked!</Text></TouchableOpacity>
+        <Text>Tommarow</Text>
       </View>
     </View>
   )
