@@ -16,6 +16,8 @@ const Child = () => {
         <Text>Mangel Pandey</Text>
         <Text>hello i am dinesh patel and i react native developer. asldkjklsa  alsdjlkfk alkdsjkl </Text>
         <Text>sjdlfsjd alsjdl alajdsl falsldfjla </Text>
+        <Text>slkdjflksa lasjjdlfj asldjfla sldjflasjd flsddjflsdj flsdjflds</Text>
+        <Text>yes your name is what?</Text>
       </View>
     </View>
   )
