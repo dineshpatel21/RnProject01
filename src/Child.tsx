@@ -8,9 +8,7 @@ const Child = () => {
   return (
     <View>
       <TouchableOpacity onPress={()=>{onPressChild()}}>Child</TouchableOpacity>
-      <View>
-        
-      </View>
+      <Image source={require("../src/assets/photos/ambassador_emptystate.png")}/>
     </View>
   )
 }
