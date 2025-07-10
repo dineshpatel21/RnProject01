@@ -19,6 +19,7 @@ const Child = () => {
         <Text>slkdjflksa lasjjdlfj asldjfla sldjflasjd flsddjflsdj flsdjflds</Text>
         <Text>yes your name is what?</Text>
         <Text>Yes it is india. i am from chhattisagarh.</Text>
+        <Text>ok hello this dinesh patel who is surrendering to god. who believe let life heppens.</Text>
       </View>
     </View>
   )
