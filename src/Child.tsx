@@ -20,6 +20,7 @@ const Child = () => {
         <Text>yes your name is what?</Text>
         <Text>Yes it is india. i am from chhattisagarh.</Text>
       </View>
+      <Image source={require("../src/assets/photos/ambassador_emptystate.png")}/>
     </View>
   )
 }
